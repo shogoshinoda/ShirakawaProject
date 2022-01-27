@@ -1,0 +1,1 @@
+secret = 'django-insecure-^!gt2ci8w9#7mch)op@0o2(2fz^ws-&*kf0*0ckg$fh%)89aby'
